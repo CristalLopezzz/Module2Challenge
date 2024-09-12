@@ -1,0 +1,15 @@
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.AssemblyInfoInputs.cache
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.AssemblyInfo.cs
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.csproj.CoreCompileInputs.cache
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.sourcelink.json
+/workspaces/Module2Challenge/MilesPerGallon/bin/Debug/net8.0/MilesPerGallon
+/workspaces/Module2Challenge/MilesPerGallon/bin/Debug/net8.0/MilesPerGallon.deps.json
+/workspaces/Module2Challenge/MilesPerGallon/bin/Debug/net8.0/MilesPerGallon.runtimeconfig.json
+/workspaces/Module2Challenge/MilesPerGallon/bin/Debug/net8.0/MilesPerGallon.dll
+/workspaces/Module2Challenge/MilesPerGallon/bin/Debug/net8.0/MilesPerGallon.pdb
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.dll
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/refint/MilesPerGallon.dll
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.pdb
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/MilesPerGallon.genruntimeconfig.cache
+/workspaces/Module2Challenge/MilesPerGallon/obj/Debug/net8.0/ref/MilesPerGallon.dll
