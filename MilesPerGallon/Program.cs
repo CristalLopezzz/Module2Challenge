@@ -6,14 +6,15 @@ namespace MilesPerGallon
     {
         static void Main(string[] args) 
         {
-            int milesDriven = int.Parse(Console.ReadLine());
-            int gallonsUsed = int.Parse(Console.ReadLine());
-            
             // User will input the amount of miles they've driven
             Console.Write("How many miles have you driven? ");
+            int milesDriven = int.Parse(Console.ReadLine());
+            
 
             // User will input the amount of gas they have used
             Console.Write("How many gallons of gas have you used? ");
+            int gallonsUsed = int.Parse(Console.ReadLine());
+            
              
              // Calculation that will give final MPG result
              double mpg = milesDriven / gallonsUsed;

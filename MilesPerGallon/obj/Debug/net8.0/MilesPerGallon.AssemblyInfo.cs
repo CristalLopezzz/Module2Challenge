@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MilesPerGallon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b87d403055951ba16b60834feb11b245b32b963")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4604d8d1224c6c36d7f0afaa01ac983a2c80ba5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MilesPerGallon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MilesPerGallon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
